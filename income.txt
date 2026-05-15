@@ -1,0 +1,4 @@
+2026-05-15,500,Freelancing
+2026-05-15,5000,Salary
+2026-05-15,9000,Tuition
+2026-05-15,500,Freelancing
